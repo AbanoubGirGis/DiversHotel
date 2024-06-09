@@ -1,0 +1,36 @@
+[
+    {
+        "MealPlanId" : 1,
+        "SeasonId" : 1,
+        "RatePerPerson" : 5
+    },
+    {
+        "MealPlanId" : 1,
+        "SeasonId" : 2,
+        "RatePerPerson" : 10
+    },
+
+
+    {
+        "MealPlanId" : 2,
+        "SeasonId" : 1,
+        "RatePerPerson" : 20
+    },
+    {
+        "MealPlanId" : 2,
+        "SeasonId" : 2,
+        "RatePerPerson" : 25
+    },
+
+    
+    {
+        "MealPlanId" : 3,
+        "SeasonId" : 1,
+        "RatePerPerson" : 25
+    },
+    {
+        "MealPlanId" : 3,
+        "SeasonId" : 2,
+        "RatePerPerson" : 30
+    }
+]

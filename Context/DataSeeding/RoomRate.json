@@ -1,0 +1,43 @@
+[
+    {
+        "RoomTypeId" : 1 ,
+        "SeasonId" : 1 ,
+        "RatePerNight" : 10
+    },
+    {
+        "RoomTypeId" : 2 ,
+        "SeasonId" : 1 ,
+        "RatePerNight" : 20
+    },
+    {
+        "RoomTypeId" : 3 ,
+        "SeasonId" : 1 ,
+        "RatePerNight" : 30
+    },
+    {
+        "RoomTypeId" : 4 ,
+        "SeasonId" : 1 ,
+        "RatePerNight" : 50
+    },
+
+    {
+        "RoomTypeId" : 1 ,
+        "SeasonId" : 2 ,
+        "RatePerNight" : 20
+    },
+    {
+        "RoomTypeId" : 2 ,
+        "SeasonId" : 2 ,
+        "RatePerNight" : 40
+    },
+    {
+        "RoomTypeId" : 3 ,
+        "SeasonId" : 2 ,
+        "RatePerNight" : 60
+    },
+    {
+        "RoomTypeId" : 4 ,
+        "SeasonId" : 2 ,
+        "RatePerNight" : 100
+    }
+]

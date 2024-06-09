@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Low Season",
+    "StartDate": "2024-01-01T00:00:00Z",
+    "EndDate": "2024-05-30T00:00:00Z"
+  },
+  {
+    "Name": "High Season",
+    "StartDate": "2024-06-01T00:00:00Z",
+    "EndDate": "2024-12-31T00:00:00Z"
+  }
+]
